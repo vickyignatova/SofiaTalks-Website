@@ -20,7 +20,8 @@ It serves as a digital platform for showcasing the event and maintaining a profe
 
 ## Deployment
 
-A deployed version of the website is available as of **29.03.2026**.
+A deployed version of the website is available as of **29.03.2026** here:
+[GitHub Deployment](https://vickyignatova.github.io/SofiaTalks-Website/)
 
 ## Archived Version
 
@@ -29,3 +30,8 @@ An archived version of the Sofia Talks website can be viewed here:
 [Web Archive – Sofia Talks (07.11.2025)](https://web.archive.org/web/20251107131020/https://sofiatalks.org/)
 
 This archived snapshot reflects a version of the website I worked on as part of the project.
+
+## Website on Domain
+
+The official Sofia Talks website is published on its main domain:
+[sofiatalks.org](https://sofiatalks.org/)
